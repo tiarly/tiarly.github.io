@@ -22,7 +22,7 @@ social-email: tiarlioliveira@gmail.com
 discus-identifier: https-tiarly-github-io # add your discus identifier
 
 # Tracker
-analytics: UA-42755075-1# Google Analytics
+analytics: UA-42755075-1
 
 # Build Settings
 markdown: kramdown
